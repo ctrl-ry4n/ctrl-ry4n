@@ -1,4 +1,4 @@
-### Ola! Eu sou o Ryan 👋
+### Ola! Eu sou o Ryan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 📚 Graduando Análise e Desenvolvimento de Sistemas 
 - 🌱  estudando JavaScrip HTML CSS
 
