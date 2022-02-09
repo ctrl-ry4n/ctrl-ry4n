@@ -1,6 +1,7 @@
 ### Ola! Eu sou o Ryan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 📚 Graduando Análise e Desenvolvimento de Sistemas 
-- 🌱  estudando JavaScrip HTML CSS
+- 📚 Graduando Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estudando JavaScrip, HTML e CSS
+- 🆙 Futuro FullStack, confia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
