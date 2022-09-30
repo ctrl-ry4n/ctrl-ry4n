@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Ryan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 📚 Graduando Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando JavaScrip, HTML e CSS
+- 🌱 Atualmente estudando JavaScrip, Node.Js, MySQL, HTML e CSS
 - 🆙 Tenho como objetivo ser FullStack.
 
 <div style="display: inline_block"><br>
